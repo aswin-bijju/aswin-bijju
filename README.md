@@ -8,7 +8,7 @@ Currently seeking **Werkstudent / internship roles** in consulting, strategy, bu
 
 ## Portfolio
 
-Applied MBA projects — each is a self-contained case study with models, data, and documentation.
+Applied projects from my MBA and venture work. Each is a self-contained case study with models, data, and documentation.
 
 ### Process & data
 
@@ -21,6 +21,10 @@ Discrete-event simulation of a planned medical practice, answering four client q
 `Discrete-event simulation` · `Simio` · `Bottleneck analysis` · `Scenario testing`
 
 ### Strategy & finance
+
+**[Truvenix India: Market Entry at Vizhinjam Port, Kerala](https://github.com/aswin-bijju/truvenix-india-market-entry)**
+Market-entry case and ₹1.2 crore seed pitch for taking a UK freight brokerage into India's newest gateway port. Sized the road-haulage market top-down from the port's own target (₹106 to 212 crore a year), found that brokerage alone only breaks even at 144 loads a month, and built a two-tranche plan where a volume gate caps investor downside at ₹30 lakh. Live venture work as strategy lead.
+`Market entry` · `Market sizing` · `Unit economics` · `Scenario modelling` · `Milestone financing`
 
 **[WaldWürfel — Business Plan & Cost Accounting Model](https://github.com/aswin-bijju/waldwuerfel-financial-model)**
 Five-year business plan for a Black Forest manufacturing start-up. I owned the costing and financial analysis: cost structure, contribution margin by product line, break-even (~31,300 units, profitable from Year 2), and margin of safety reaching +61% by Year 5.
@@ -63,4 +67,4 @@ Cross-cultural background across India, Germany, and the MENA region · FIDE-rat
 
 📫 aswin.bijju@gmail.com
 
-> Portfolio projects are academic MBA coursework, most on fictional or anonymised scenarios; methods and tooling are real. Team projects credit all contributors and state my individual contribution.
+> Most portfolio projects are academic MBA coursework on fictional or anonymised scenarios; methods and tooling are real. Truvenix India is live venture work, and its figures are planning assumptions, not results. Team projects credit all contributors and state my individual contribution.
