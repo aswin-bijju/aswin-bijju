@@ -75,12 +75,12 @@ Also placed **first by equity** in a three-day board-based Board of Directors bu
 **Process & BPM:** BPMN 2.0 (bpmn.io) · Process Mining (Apromore) · Simio
 **Data & BI:** Power BI (DAX) · KNIME · Excel modelling
 **Consulting:** hypothesis-driven problem framing · change frameworks (Kotter, Lewin, ADKAR) · organisational psychology
-**AI & automation:** Claude Code · MCP connectors · agent permission and approval design · Claude, NotebookLM, Perplexity
+**AI & automation:** Claude Code · MCP connectors · agent permission and approval design · Claude, Notion, Perplexity, n8n, slack
 **Languages:** English (C1) · German (B1, developing) · Malayalam (native)
 
 ## About
 
-Cross-cultural background across India, Germany, and the MENA region · FIDE-rated chess player · independent knowledge-synthesis project [@the.karmacompass] · daily practitioner of agentic AI workflows.
+Cross-cultural background across India, Germany, and the MENA region · FIDE-rated chess player · independent research-AI agent project [AIA Stakeholder Intelligence] · daily practitioner of agentic AI workflows.
 
 📫 aswin.bijju@gmail.com
 
