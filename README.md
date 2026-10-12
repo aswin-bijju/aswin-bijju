@@ -13,6 +13,15 @@ Applied projects from my MBA, venture work and my own AI builds. Each is a self-
 
 ### AI & automation
 
+### AI & automation
+
+**[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/aia-signal-pipeline)**
+A daily agent pipeline that reads trade and shipping news, routes each development to the team it affects using an organisation map, and holds back stories a team has already seen that week.
+Models classify and write; routing stays in plain, testable rules, and every brief needs human approval in Slack before delivery.
+Testing on live feeds surfaced three failure modes (a catch-all region tag, a false "update" from a lossy summary, one malformed model reply halting a full run), each fixed and documented.
+
+`n8n` · `Claude` · `Agent design` · `Human-in-the-loop` · `Slack automation`
+
 **[Human-Approved AI Agents: a 35-agent personal office](https://github.com/aswin-bijju/human-approved-ai-agents)**
 Set up 35 role-based Claude Code agents on Agents Office (by Sahni.ai) for my job search, LinkedIn, thesis and admin, connected to Gmail, Calendar, Drive, Slack and Notion. Designed a three-layer approval system (an app allow-list, 45 tool-level block rules and a fail-closed launcher) so the agents can read and draft, but nothing is sent, booked or changed without my sign-off.
 `AI agents` · `Claude Code` · `MCP connectors` · `Human-in-the-loop` · `Least-privilege access`
