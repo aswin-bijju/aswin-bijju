@@ -13,8 +13,6 @@ Applied projects from my MBA, venture work and my own AI builds. Each is a self-
 
 ### AI & automation
 
-### AI & automation
-
 **[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/aia-signal-pipeline)**
 A daily agent pipeline that reads trade and shipping news, routes each development to the team it affects using an organisation map, and holds back stories a team has already seen that week.
 Models classify and write; routing stays in plain, testable rules, and every brief needs human approval in Slack before delivery.
