@@ -1,4 +1,3 @@
-[README_1.md](https://github.com/user-attachments/files/33143488/README_1.md)
 # Hi, I'm Aswin (Ash) Biju
 
 **MBA · International Business Consulting** (Hochschule Offenburg, Germany). Engineering-trained analyst working at the intersection of **business processes, data, AI adoption and organisational change**. I turn messy problems into structured models, measurable KPIs, and decisions people can act on.
@@ -13,7 +12,7 @@ Applied projects from my MBA, venture work and my own AI builds. Each is a self-
 
 ### AI & automation
 
-**[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/aia-signal-pipeline)**
+**[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/AIA-Signal-Pipeline-Prototype)**
 A daily agent pipeline that reads trade and shipping news, routes each development to the team it affects using an organisation map, and holds back stories a team has already seen that week.
 Models classify and write; routing stays in plain, testable rules, and every brief needs human approval in Slack before delivery.
 Testing on live feeds surfaced three failure modes (a catch-all region tag, a false "update" from a lossy summary, one malformed model reply halting a full run), each fixed and documented.
