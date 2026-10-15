@@ -37,7 +37,7 @@ Five-year business plan for a Black Forest manufacturing start-up. I owned the c
 `Cost accounting` · `Contribution margin` · `Break-even analysis` · `Financial modelling` · `EVA`
 
 **[Benchmarking Proposal: Company XYZ Data Centres](https://github.com/aswin-bijju/benchmarking-tqm-proposal)**
-Redesigned a failing global benchmarking programme: replaced three simultaneous regional studies with a staggered three-year functional benchmarking cycle, embedded in TQM via PDCA and pre-screened with FMEA at an RPN ≥ 225 threshold.
+Redesigned a failing global benchmarking programme _ Gartner Case Study: replaced three simultaneous regional studies with a staggered three-year functional benchmarking cycle, embedded in TQM via PDCA and pre-screened with FMEA at an RPN ≥ 225 threshold.
 `Benchmarking` · `TQM` · `PDCA` · `FMEA / RPN` · `Gap analysis`
 
 ### Change & people
