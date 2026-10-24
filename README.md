@@ -12,6 +12,11 @@ Applied projects from my MBA, venture work and my own AI builds. Each is a self-
 
 ### AI & automation
 
+**[Setu: EU-India Commercial Decision Engine](https://github.com/aswin-bijju/setu-decision-engine)**
+A decision engine for B2B revenue teams selling between Europe and India. It matches signals from 10 sources to the right account and deal, has specialist agents propose decisions, and gives a sales leader up to ten ranked calls a week, each with its evidence, counter-signals and confidence.
+Agent rules are deterministic, so every call traces back to specific signals and CRM fields, and nothing is written to the CRM or Slack without approval. A Corridor agent flags what general revenue tools miss: Diwali and fiscal-year timing, EUR/INR drift, GDPR and DPDP data transfers, CBAM and works councils.
+`Python` · `SQLite` · `Agent design` · `Human-in-the-loop` · `Revenue operations` · `EU-India`
+
 **[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/AIA-Signal-Pipeline-Prototype)**
 A daily agent pipeline that reads trade and shipping news, routes each development to the team it affects using an organisation map, and holds back stories a team has already seen that week.
 Models classify and write; routing stays in plain, testable rules, and every brief needs human approval in Slack before delivery.
@@ -81,4 +86,4 @@ Cross-cultural background across India, Germany, and the MENA region · FIDE-rat
 
 📫 aswin.bijju@gmail.com
 
-> Most portfolio projects are academic MBA coursework on fictional or anonymised scenarios; methods and tooling are real. Truvenix India is live venture work, and its figures are planning assumptions, not results. Human-Approved AI Agents is a personal build on third-party software (Agents Office by Sahni.ai), set up with Claude as a build partner. Team projects credit all contributors and state my individual contribution.
+> Most portfolio projects are academic MBA coursework on fictional or anonymised scenarios; methods and tooling are real. Truvenix India is live venture work, and its figures are planning assumptions, not results. Setu is a working prototype that runs on fictional demo data. Human-Approved AI Agents is a personal build on third-party software (Agents Office by Sahni.ai), set up with Claude as a build partner. Team projects credit all contributors and state my individual contribution.
