@@ -15,6 +15,7 @@ Applied projects from my MBA, venture work and my own AI builds. Each is a self-
 **[Setu: EU-India Commercial Decision Engine](https://github.com/aswin-bijju/setu-decision-engine)**
 A decision engine for B2B revenue teams selling between Europe and India. It matches signals from 10 sources to the right account and deal, has eight specialist agents propose decisions, and gives a sales leader up to ten ranked calls a week, each with its evidence, counter-signals and confidence.
 Agent rules are deterministic, so every call traces back to specific signals and CRM fields, and nothing is written to the CRM or Slack without approval. Each verdict adjusts the weight of the agent that made the call. A Corridor agent flags what general revenue tools miss: Diwali and fiscal-year timing, EUR/INR drift, GDPR and DPDP data transfers, CBAM and works councils.
+The October redesign (designed, not yet built) puts an owner on every call, reroutes it to a deputy when that person is away, and shows exactly what will change in the CRM before anyone approves. [See the screens](https://github.com/aswin-bijju/setu-decision-engine/tree/main/docs/design).
 `Python` · `SQLite` · `Agent design` · `Human-in-the-loop` · `Revenue operations` · `EU-India`
 
 **[AIA Signal Pipeline: News-to-Team Briefing Agents](https://github.com/aswin-bijju/AIA-Signal-Pipeline-Prototype)**
